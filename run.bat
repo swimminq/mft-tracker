@@ -1,0 +1,1 @@
+C:\Users\HP\PycharmProjects\test\venv\Scripts\python.exe C:/Users/HP/PycharmProjects/test/partition.py
